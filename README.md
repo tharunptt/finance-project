@@ -1,3 +1,3 @@
 # finance-project 
 
-# This project is for learning git
+# This project is for learning git practical
